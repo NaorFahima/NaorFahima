@@ -1,6 +1,6 @@
 ### Hi there, I'm Naor 👋
 
-💻 B.Sc Software Engineering at Afeka Academic College of Engineering with 1 year remaining.
+💻 B.Sc Software Engineering
 
 ## Main Technologies & Languages
 
